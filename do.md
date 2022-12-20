@@ -3,7 +3,7 @@
 ## [0.0.1] **unreleased**
 
 ### Add
-- [ ] Three snails.
+- [x] Three snails.
 - [ ] Three mussels.
 - [ ] Six fynbos clusters.
 - [ ] Three large fynbos.
