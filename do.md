@@ -6,7 +6,7 @@
 
 - [x] Three snails.
 - [x] Complex version of snail, split into body parts.
-- [ ] Three mussels.
+- [x] Three mussels.
 - [ ] Six fynbos clusters.
 - [ ] Three large fynbos.
 - [x] Three sizes of eggs.
