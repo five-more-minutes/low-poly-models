@@ -8,7 +8,7 @@
 - [x] Complex version of snail, split into body parts.
 - [x] Three mussels.
 - [x] Six fynbos clusters.
-- [ ] Three large fynbos.
+- [x] Three large fynbos.
 - [x] Three sizes of eggs.
 - [x] Three water lilies.
 - [ ] Three small maple trees.
