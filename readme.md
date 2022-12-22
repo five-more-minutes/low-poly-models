@@ -9,3 +9,5 @@ This collection is still in its infancy, which means the models are not consider
 ## Issues
 
 There are errors with smoothing that have not been addressed. Some of the models need to be re-exported to fix this.
+
+The models are intended to be used with a plain color as a texture and have not been properly uv-mapped for applying an actual texture.
